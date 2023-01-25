@@ -1,0 +1,8 @@
+@techreport{schaefer-boguslu-techrep-2021,
+    title={Towards annotating illegal hate speech: A computational linguistic approach},
+    author={Sch\"afer, Johannes and Boguslu, K\"ubra},
+    institution={Detect Then Act (DTCT) Technical Report 3},
+    year={2021},
+    note={ISSN 2736-6391},
+    url={https://dtct.eu/wp-content/uploads/2021/10/DTCT-TR3-CL.pdf},
+}
