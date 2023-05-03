@@ -1,0 +1,7 @@
+@article{schaefer2023dasp,
+	title={{Bias Mitigation for Capturing Potentially Illegal Hate Speech}},
+	author={Johannes Sch\"afer},
+	journal={Datenbank-Spektrum},
+	url={https://doi.org/10.1007/s13222-023-00439-0},
+	year={2023}
+}

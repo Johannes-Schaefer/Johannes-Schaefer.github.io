@@ -1,0 +1,15 @@
+@Inbook{schaefer2023hate,
+    author="Sch{\"a}fer, Johannes",
+    editor="Jaki, Sylvia and Steiger, Stefan",
+    title={{Hate Speech behandeln: Diagnosewerkzeuge aus der Computerlinguistik}},
+    bookTitle="Digitale Hate Speech: Interdisziplin{\"a}re Perspektiven auf Erkennung, Beschreibung und Regulation",
+    year="2023",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    pages="89--109",
+    abstract="Hate Speech stellt in sozialen Medien ein offenkundiges Problem dar, welches in der Forschung in den letzten Jahren zunehmend interdisziplin{\"a}r untersucht wird. In diesem Artikel beleuchte ich das Ph{\"a}nomen aus computerlinguistischer Sicht und beschreibe n{\"a}herungsweise erprobte Herangehensweisen f{\"u}r L{\"o}sungsans{\"a}tze. Durch eine Diskussion von Anwendungsm{\"o}glichkeiten ordne ich das Problem in die computerlinguistische Forschung ein, wobei sich hier die automatische Erkennung von Hate Speech in Kurznachrichten vordergr{\"u}ndig als Hauptaufgabe herausgestellt hat. Ich zeige jedoch, dass damit nur ein Teil des Problems untersucht wird. Beispielsweise der Kontext von Nachrichten bleibt in den meisten Forschungen zur Hate-Speech-Erkennung au{\ss}en vor, was eine Diskrepanz zum realen Vorkommen des Ph{\"a}nomens darstellt. Auch zeige ich, dass es weitere, wenig untersuchte Forschungsrichtungen zum Ph{\"a}nomen Hate Speech gibt, wie zum Beispiel die Analyse von Teil{\"a}u{\ss}erungen. Schlie{\ss}lich schlage ich eine Einteilung von L{\"o}sungsans{\"a}tzen zur Erkennung von Hate Speech in drei Kategorien vor, zu denen ich jeweils einen einleitenden {\"U}berblick gebe: Lexikonbasierte Systeme, erkl{\"a}rbare maschinelle Lernsysteme und neuronale Netzwerke.",
+    isbn="978-3-662-65964-9",
+    doi="10.1007/978-3-662-65964-9_5",
+    url="https://doi.org/10.1007/978-3-662-65964-9_5"
+}
+
